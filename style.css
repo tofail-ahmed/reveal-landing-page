@@ -1,0 +1,33 @@
+/* .text-primary {
+      color: #0c0c8a;
+}
+
+.text-secondary {
+      color: #075707;
+} */
+
+.banner-img-1 {
+      background-image: url(Images/carousel/3.jpg);
+      height:100vh;
+}
+.banner-img-2 {
+      background-image: url(Images/carousel/4.jpg);
+      height:100vh;
+}
+.banner-img-3 {
+      background-image: url(Images/carousel/5.jpg);
+      height:100vh;
+}
+.img-client{
+      width: 130px;
+}
+.button{
+      color:white;
+      background-color: rgb(30, 30, 126);
+      border: 2px solid white;
+}
+.button:hover{
+      color:rgb(30, 30, 126) ;
+      background-color: white;
+      
+}
